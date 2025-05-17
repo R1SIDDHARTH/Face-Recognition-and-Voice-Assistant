@@ -97,3 +97,13 @@ pip install Flask opencv-python face_recognition numpy gTTS pygame requests
 - [face_recognition](https://github.com/ageitgey/face_recognition) library for face recognition.
 - [gTTS](https://pypi.org/project/gTTS/) for Google Text-to-Speech integration.
 - [Flask](https://flask.palletsprojects.com/) for the web framework.
+
+  ## 📃 License
+
+MIT License — Free to use with attribution.
+
+## 👨‍💻 Author
+
+Made with ❤️ by [R1SIDDHARTH](https://github.com/R1SIDDHARTH)
+
+
